@@ -1,0 +1,18 @@
+{
+  "slug": "twg-academy",
+  "name_en": "TWG Academy",
+  "name_ar": "أكاديمية TWG",
+  "description_en": "TWG Academy is the strategic partner of the Smart Internship Platform - a leading company in the training and development field, headquartered in Irbid. TWG runs immersive professional training programs in software engineering, data science, AI, cybersecurity, business and soft skills, with direct industry pipelines for Jordanian university students.",
+  "description_ar": "أكاديمية TWG هي الشريك الاستراتيجي لمنصة التدريب الذكي - شركة رائدة في مجال التدريب والتطوير المهني، يقع مقرها في إربد. تقدّم الأكاديمية برامج تدريبية احترافية مكثّفة في هندسة البرمجيات وعلم البيانات والذكاء الاصطناعي والأمن السيبراني وريادة الأعمال والمهارات الناعمة، مع مسارات توظيفية مباشرة لطلبة الجامعات الأردنية.",
+  "fields": "Training, Education, IT, AI, Cybersecurity, Business",
+  "training_fields": "professional training, software engineering, full stack, python, javascript, react, node, data science, machine learning, ai, deep learning, cybersecurity, ethical hacking, devops, cloud, business, soft skills, leadership, project management, freelancing, scrum, agile, arabic content",
+  "city": "Irbid",
+  "governorate": "Irbid",
+  "address": "Al-Yousfi Circle, Al-Jamal Center, 4th floor, Irbid",
+  "latitude": 32.5556,
+  "longitude": 35.8470,
+  "website": "https://twg-academy.jo",
+  "logo_url": null,
+  "size": "large",
+  "is_strategic_partner": true
+}
